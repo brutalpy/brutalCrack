@@ -9,7 +9,7 @@
 
 *$ pkg install git*
 
-*$ git clone https://github.com/brutalCrack*
+*$ git clone https://github.com/brutalpy/brutalCrack*
 
 *$ pip2 install requests bs4*
 
