@@ -3,7 +3,7 @@
 
   **INSTALL BAHAN**
 
-*pkg update && pkg upgrade*
+*$ pkg update && pkg upgrade*
 
 *$ pkg install python2*
 
@@ -14,3 +14,5 @@
 *$ pip2 install requests bs4*
 
 *$ pip2 install futures*
+
+
